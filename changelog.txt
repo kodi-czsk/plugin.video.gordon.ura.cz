@@ -1,3 +1,6 @@
+[B]1.0.6[/B]
+- oprava po re-dizajne stranky
+
 [B]1.0.5[/B]
 - oprava strankovania
 
